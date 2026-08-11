@@ -119,4 +119,4 @@ Building practical projects focused on:
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliano%20Siqueira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliano%20Siqueira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julianoit)
